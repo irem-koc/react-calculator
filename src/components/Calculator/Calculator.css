@@ -1,4 +1,5 @@
 .calculator {
+    font-size: 21px;
     width: 50%;
     margin: 50px auto;
     padding: 25px;
@@ -9,6 +10,7 @@
     background-color: #003430;
     color:#C1F5EC;
     text-align: end;
+    padding: 25px;
 }
 .inner-calculator{
     text-align: center;
